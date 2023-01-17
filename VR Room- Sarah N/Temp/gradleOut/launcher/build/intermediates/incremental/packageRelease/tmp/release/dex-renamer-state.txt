@@ -1,0 +1,4 @@
+#Sun Jan 15 18:13:58 EST 2023
+base.0=/Users/sarahniekamp/Downloads/Virtual Reality/Create-with-VR_2020LTS/VR Room- Sarah N/Temp/gradleOut/launcher/build/intermediates/dex/release/out/classes.dex
+path.0=classes.dex
+renamed.0=classes.dex
