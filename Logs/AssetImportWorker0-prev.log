@@ -1061,3 +1061,30 @@ Received Import Request.
 Start importing Assets/_Course Library/_Prefabs/VR/Reticles/VR_Reticle_Circular.prefab using Guid(50f8d835961353c4a8e0c4b77d7f8876) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c7d6fefec092e6b8875163a1239d0904') in 0.030532 seconds
   Import took 0.037620 seconds .
 
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.009170 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for OSXStandalone target not found
+Refreshing native plugins compatible for Editor in 0.77 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.338 seconds
+Platform modules already initialized, skipping
+Switching build target platform(2) subTarget(0) extendedPlatform(0) -> platform(13) subTarget(524288) extendedPlatform(0)
+Shader 'Universal Render Pipeline/Particles/Lit': fallback shader 'Universal Render Pipeline/Particles/SimpleLit' not found
+Refreshing native plugins compatible for Editor in 0.97 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 2970 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 0.51 GB.
+System memory in use after: 0.51 GB.
+
+Unloading 20 unused Assets to reduce memory usage. Loaded Objects now: 3710.
+Total: 4.979412 ms (FindLiveObjects: 0.732082 ms CreateObjectMapping: 0.246814 ms MarkObjects: 3.942824 ms  DeleteObjects: 0.055381 ms)
+
+AssetImportParameters requested are different than current active one (requested -> active):
+  custom:graphics/normal-map-encoding: 01000000000000000000000000000000 -> 02000000000000000000000000000000
