@@ -1672,3 +1672,91 @@ Received Import Request.
 Start importing Assets/Scenes/Personal Project.unity using Guid(1e840d93b1c92473f83d910b16b2f458) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '24bca403340984e49809ee5994d9b41d') in 0.033385 seconds
   Import took 0.044642 seconds .
 
+========================================================================
+Received Import Request.
+  Time since last request: 2089.513279 seconds.
+  path: Assets/Scenes/Personal Project.unity
+  artifactKey: Guid(1e840d93b1c92473f83d910b16b2f458) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scenes/Personal Project.unity using Guid(1e840d93b1c92473f83d910b16b2f458) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b2059378c5c08c66061b0a04f2f5468a') in 0.019333 seconds
+  Import took 0.085016 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 7812.933228 seconds.
+  path: Assets/Scenes/bishop-apple:snow white.mb
+  artifactKey: Guid(2d45d498d5e3e46f7bf93f0bb6906160) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scenes/bishop-apple:snow white.mb using Guid(2d45d498d5e3e46f7bf93f0bb6906160) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '0c5712af8abe817b6848fb39b7bf5d10') in 0.272525 seconds
+  Import took 0.339301 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 63.634011 seconds.
+  path: Assets/_Course Library/_Prefabs/bishop-apple:snow white.mb
+  artifactKey: Guid(7eaf5c61414574c41a3178dd4df75a6c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/_Course Library/_Prefabs/bishop-apple:snow white.mb using Guid(7eaf5c61414574c41a3178dd4df75a6c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'bef82b0b06b964830993b6f9cf2451fa') in 0.016141 seconds
+  Import took 0.029238 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 85.656292 seconds.
+  path: Assets/_Course Library/_Prefabs/tower.obj
+  artifactKey: Guid(525699f18b4fc4f9790db85de41ad49d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/_Course Library/_Prefabs/tower.obj using Guid(525699f18b4fc4f9790db85de41ad49d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '00990d6f5593c6143e60c6c24814beef') in 1.548678 seconds
+  Import took 1.560420 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 154.027817 seconds.
+  path: Assets/_Course Library/Textures/Icon_Close.png
+  artifactKey: Guid(811cf8ccf45f8c4439f6c52f9c345fcd) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/_Course Library/Textures/Icon_Close.png using Guid(811cf8ccf45f8c4439f6c52f9c345fcd) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'cc476839d9f2dab7b571cb2ed41a0d2d') in 1.191803 seconds
+  Import took 1.201509 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000253 seconds.
+  path: Assets/_Course Library/Textures/Icon_Gear.png
+  artifactKey: Guid(5cc05834449b82544bd1a87bc90bd81e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/_Course Library/Textures/Icon_Gear.png using Guid(5cc05834449b82544bd1a87bc90bd81e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '273d9c7d1d96d45c190eba5a9c789633') in 0.035218 seconds
+  Import took 0.041924 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.001117 seconds.
+  path: Assets/_Course Library/Textures/Mirror_Texture_Black.renderTexture
+  artifactKey: Guid(5c66ef5a44f9143fea4b30a1fabe8fbb) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/_Course Library/Textures/Mirror_Texture_Black.renderTexture using Guid(5c66ef5a44f9143fea4b30a1fabe8fbb) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '52fb14945c909cfe587bb121c1670827') in 0.136172 seconds
+  Import took 0.143067 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000260 seconds.
+  path: Assets/_Course Library/Textures/StoneWall_Texture.jpg
+  artifactKey: Guid(d5f3743f553fe1349a6203a70f7bbe1e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/_Course Library/Textures/StoneWall_Texture.jpg using Guid(d5f3743f553fe1349a6203a70f7bbe1e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '9c58e9a4a77f6124e2bd08cc28b867cb') in 1.102343 seconds
+  Import took 1.109977 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000238 seconds.
+  path: Assets/_Course Library/Textures/Mirror_Texture_Brown.renderTexture
+  artifactKey: Guid(7728fcccb7eeb4c7294266bf1e09e250) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/_Course Library/Textures/Mirror_Texture_Brown.renderTexture using Guid(7728fcccb7eeb4c7294266bf1e09e250) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'acf5a21bf7dd26eaf850f1cd33d6ed2b') in 0.006907 seconds
+  Import took 0.011949 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000216 seconds.
+  path: Assets/_Course Library/Textures/WoodFloor_Texture.png
+  artifactKey: Guid(79a6f16b6c7b08541813ca8532fb917c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/_Course Library/Textures/WoodFloor_Texture.png using Guid(79a6f16b6c7b08541813ca8532fb917c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'cce5d4e402b207e6405a020215dfb259') in 0.030252 seconds
+  Import took 0.039066 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000287 seconds.
+  path: Assets/_Course Library/Textures/InteriorColourSwatch.png
+  artifactKey: Guid(22560b08cafc5da46b333eef8c0c711c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/_Course Library/Textures/InteriorColourSwatch.png using Guid(22560b08cafc5da46b333eef8c0c711c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '4bf2c01581c74a98cae55946e80c1768') in 0.035157 seconds
+  Import took 0.041921 seconds .
+
