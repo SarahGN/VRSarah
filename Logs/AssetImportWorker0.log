@@ -1760,3 +1760,11 @@ Received Import Request.
 Start importing Assets/_Course Library/Textures/InteriorColourSwatch.png using Guid(22560b08cafc5da46b333eef8c0c711c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '4bf2c01581c74a98cae55946e80c1768') in 0.035157 seconds
   Import took 0.041921 seconds .
 
+========================================================================
+Received Import Request.
+  Time since last request: 158.117612 seconds.
+  path: Assets/Scenes/Personal Project.unity
+  artifactKey: Guid(1e840d93b1c92473f83d910b16b2f458) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scenes/Personal Project.unity using Guid(1e840d93b1c92473f83d910b16b2f458) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'dfec6f223e58100ba5477f46b104493c') in 0.006155 seconds
+  Import took 0.023563 seconds .
+
