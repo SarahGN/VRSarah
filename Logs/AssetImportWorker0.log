@@ -648,3 +648,11 @@ Received Import Request.
 Start importing Assets/Scenes/Sarah Room.unity using Guid(afdcb113ffd5a4353ad88f0dd03743af) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '92c90d2680561a199b3927d831b13dc5') in 0.026474 seconds
   Import took 0.038999 seconds .
 
+========================================================================
+Received Import Request.
+  Time since last request: 3500.566227 seconds.
+  path: Assets/Scenes/Sarah Room
+  artifactKey: Guid(fc2aca7af74ab4d95bdc197631033f29) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scenes/Sarah Room using Guid(fc2aca7af74ab4d95bdc197631033f29) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '78cc60b57f3bcbb3843e05f9f4ae8d0c') in 0.026440 seconds
+  Import took 0.136300 seconds .
+
